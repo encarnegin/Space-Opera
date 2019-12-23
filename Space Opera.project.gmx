@@ -34,6 +34,7 @@
     <sprite>sprites\spr_ufoboss2</sprite>
     <sprite>sprites\spr_ufo1</sprite>
     <sprite>sprites\spr_ufo2</sprite>
+    <sprite>sprites\spr_combustion</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\back_estrellas1</background>
