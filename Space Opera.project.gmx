@@ -49,6 +49,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_jugador</object>
+    <object>objects\obj_combustion</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
