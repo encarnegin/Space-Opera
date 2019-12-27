@@ -29,7 +29,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>-1</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -79,7 +79,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>y &lt; (room_height - 300)</string>
+            <string>y &lt; (room_height - 350)</string>
           </argument>
         </arguments>
       </action>
@@ -163,7 +163,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>x &lt; (room_width - 300)</string>
+            <string>x &lt; (room_width - 100)</string>
           </argument>
         </arguments>
       </action>
@@ -247,7 +247,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>y &gt; 300</string>
+            <string>y &gt; 100</string>
           </argument>
         </arguments>
       </action>
@@ -331,7 +331,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>x &gt; 300</string>
+            <string>x &gt; 100</string>
           </argument>
         </arguments>
       </action>
