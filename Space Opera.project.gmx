@@ -42,6 +42,7 @@
     <sprite>sprites\spr_combustion</sprite>
     <sprite>sprites\spr_jugador</sprite>
     <sprite>sprites\spr_jugador_parado</sprite>
+    <sprite>sprites\spr_humo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\back_estrellas1</background>
@@ -56,6 +57,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_jugador</object>
+    <object>objects\obj_humo</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
