@@ -58,6 +58,7 @@
   <objects name="objects">
     <object>objects\obj_jugador</object>
     <object>objects\obj_humo</object>
+    <object>objects\obj_cometa</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
