@@ -47,119 +47,7 @@
       <sprite>sprites\spr_humo</sprite>
       <sprite>sprites\spr_jugador_parado</sprite>
     </sprites>
-    <sprites name="Efectos Fondo Espacial">
-      <sprite>sprites\sprite33_spaceeffects (1)</sprite>
-      <sprite>sprites\sprite34_spaceeffects (2)</sprite>
-      <sprite>sprites\sprite35_spaceeffects (3)</sprite>
-      <sprite>sprites\sprite36_spaceeffects (4)</sprite>
-      <sprite>sprites\sprite37_spaceeffects (5)</sprite>
-      <sprite>sprites\sprite38_spaceeffects (6)</sprite>
-      <sprite>sprites\sprite39_spaceeffects (7)</sprite>
-      <sprite>sprites\sprite40_spaceeffects (8)</sprite>
-      <sprite>sprites\sprite41_spaceeffects (9)</sprite>
-      <sprite>sprites\sprite42_spaceeffects (10)</sprite>
-      <sprite>sprites\sprite43_spaceeffects (11)</sprite>
-      <sprite>sprites\sprite44_spaceeffects (12)</sprite>
-      <sprite>sprites\sprite45_spaceeffects (13)</sprite>
-      <sprite>sprites\sprite46_spaceeffects (14)</sprite>
-      <sprite>sprites\sprite47_spaceeffects (15)</sprite>
-      <sprite>sprites\sprite48_spaceeffects (16)</sprite>
-      <sprite>sprites\sprite49_spaceeffects (17)</sprite>
-      <sprite>sprites\sprite50_spaceeffects (18)</sprite>
-      <sprite>sprites\sprite51_spaceeffects (19)</sprite>
-      <sprite>sprites\sprite52_spaceeffects (20)</sprite>
-      <sprite>sprites\sprite53_spaceeffects (21)</sprite>
-      <sprite>sprites\sprite54_spaceeffects (22)</sprite>
-      <sprite>sprites\sprite55_spaceeffects (23)</sprite>
-      <sprite>sprites\sprite56_spaceeffects (24)</sprite>
-      <sprite>sprites\sprite57_spaceeffects (25)</sprite>
-      <sprite>sprites\sprite58_spaceeffects (26)</sprite>
-      <sprite>sprites\sprite59_spaceeffects (27)</sprite>
-      <sprite>sprites\sprite60_spaceeffects (28)</sprite>
-      <sprite>sprites\sprite61_spaceeffects (29)</sprite>
-      <sprite>sprites\sprite62_spaceeffects (30)</sprite>
-      <sprite>sprites\sprite63_spaceeffects (31)</sprite>
-      <sprite>sprites\sprite64_spaceeffects (32)</sprite>
-      <sprite>sprites\sprite65_spaceeffects (33)</sprite>
-      <sprite>sprites\sprite66_spaceeffects (34)</sprite>
-      <sprite>sprites\sprite67_spaceeffects (35)</sprite>
-      <sprite>sprites\sprite68_spaceeffects (36)</sprite>
-      <sprite>sprites\sprite69_spaceeffects (37)</sprite>
-      <sprite>sprites\sprite70_spaceeffects (38)</sprite>
-      <sprite>sprites\sprite71_spaceeffects (39)</sprite>
-      <sprite>sprites\sprite72_spaceeffects (40)</sprite>
-      <sprite>sprites\sprite73_spaceeffects (41)</sprite>
-      <sprite>sprites\sprite74_spaceeffects (42)</sprite>
-      <sprite>sprites\sprite75_spaceeffects (43)</sprite>
-      <sprite>sprites\sprite76_spaceeffects (44)</sprite>
-      <sprite>sprites\sprite77_spaceeffects (45)</sprite>
-      <sprite>sprites\sprite78_spaceeffects (46)</sprite>
-      <sprite>sprites\sprite79_spaceeffects (47)</sprite>
-      <sprite>sprites\sprite80_spaceeffects (48)</sprite>
-      <sprite>sprites\sprite81_spaceeffects (49)</sprite>
-      <sprite>sprites\sprite82_spaceeffects (50)</sprite>
-      <sprite>sprites\sprite83_spaceeffects (51)</sprite>
-      <sprite>sprites\sprite84_spaceeffects (52)</sprite>
-      <sprite>sprites\sprite85_spaceeffects (53)</sprite>
-      <sprite>sprites\sprite86_spaceeffects (54)</sprite>
-      <sprite>sprites\sprite87_spaceeffects (55)</sprite>
-      <sprite>sprites\sprite88_spaceeffects (56)</sprite>
-      <sprite>sprites\sprite89_spaceeffects (57)</sprite>
-      <sprite>sprites\sprite90_spaceeffects (58)</sprite>
-      <sprite>sprites\sprite91_spaceeffects (59)</sprite>
-      <sprite>sprites\sprite92_spaceeffects (60)</sprite>
-      <sprite>sprites\sprite93_spaceeffects (61)</sprite>
-      <sprite>sprites\sprite94_spaceeffects (62)</sprite>
-      <sprite>sprites\sprite95_spaceeffects (63)</sprite>
-      <sprite>sprites\sprite96_spaceeffects (64)</sprite>
-      <sprite>sprites\sprite97_spaceeffects (65)</sprite>
-      <sprite>sprites\sprite98_spaceeffects (66)</sprite>
-      <sprite>sprites\sprite99_spaceeffects (67)</sprite>
-      <sprite>sprites\sprite100_spaceeffects (68)</sprite>
-      <sprite>sprites\sprite101_spaceeffects (69)</sprite>
-      <sprite>sprites\sprite102_spaceeffects (70)</sprite>
-      <sprite>sprites\sprite103_spaceeffects (71)</sprite>
-      <sprite>sprites\sprite104_spaceeffects (72)</sprite>
-      <sprite>sprites\sprite105_spaceeffects (73)</sprite>
-      <sprite>sprites\sprite106_spaceeffects (74)</sprite>
-      <sprite>sprites\sprite107_spaceeffects (75)</sprite>
-      <sprite>sprites\sprite108_spaceeffects (76)</sprite>
-      <sprite>sprites\sprite109_spaceeffects (77)</sprite>
-      <sprite>sprites\sprite110_spaceeffects (78)</sprite>
-      <sprite>sprites\sprite111_spaceeffects (79)</sprite>
-      <sprite>sprites\sprite112_spaceeffects (80)</sprite>
-      <sprite>sprites\sprite113_spaceeffects (81)</sprite>
-      <sprite>sprites\sprite114_spaceeffects (82)</sprite>
-      <sprite>sprites\sprite115_spaceeffects (83)</sprite>
-      <sprite>sprites\sprite116_spaceeffects (84)</sprite>
-      <sprite>sprites\sprite117_spaceeffects (85)</sprite>
-      <sprite>sprites\sprite118_spaceeffects (86)</sprite>
-      <sprite>sprites\sprite119_spaceeffects (87)</sprite>
-      <sprite>sprites\sprite120_spaceeffects (88)</sprite>
-      <sprite>sprites\sprite121_spaceeffects (89)</sprite>
-      <sprite>sprites\sprite122_spaceeffects (90)</sprite>
-      <sprite>sprites\sprite123_spaceeffects (91)</sprite>
-      <sprite>sprites\sprite124_spaceeffects (92)</sprite>
-      <sprite>sprites\sprite125_spaceeffects (93)</sprite>
-      <sprite>sprites\sprite126_spaceeffects (94)</sprite>
-      <sprite>sprites\sprite127_spaceeffects (95)</sprite>
-      <sprite>sprites\sprite128_spaceeffects (96)</sprite>
-      <sprite>sprites\sprite129_spaceeffects (97)</sprite>
-      <sprite>sprites\sprite130_spaceeffects (98)</sprite>
-      <sprite>sprites\sprite131_spaceeffects (99)</sprite>
-      <sprite>sprites\sprite132_spaceeffects (100)</sprite>
-      <sprite>sprites\sprite133_spaceeffects (101)</sprite>
-      <sprite>sprites\sprite134_spaceeffects (102)</sprite>
-      <sprite>sprites\sprite135_spaceeffects (103)</sprite>
-      <sprite>sprites\sprite136_spaceeffects (104)</sprite>
-      <sprite>sprites\sprite137_spaceeffects (105)</sprite>
-      <sprite>sprites\sprite138_spaceeffects (106)</sprite>
-      <sprite>sprites\sprite139_spaceeffects (107)</sprite>
-      <sprite>sprites\sprite140_spaceeffects (108)</sprite>
-      <sprite>sprites\sprite141_spaceeffects (109)</sprite>
-      <sprite>sprites\sprite142_spaceeffects (110)</sprite>
-      <sprite>sprites\sprite143_spaceeffects (111)</sprite>
-    </sprites>
+    <sprite>sprites\spr_fondo_espacio</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\back_estrellas1</background>
@@ -176,7 +64,9 @@
     <object>objects\obj_jugador</object>
     <object>objects\obj_humo</object>
     <object>objects\obj_cometa</object>
+    <object>objects\obj_fondo_espacio</object>
     <object>objects\obj_generador_asteroides</object>
+    <object>objects\obj_generador_fondo_espacio</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
