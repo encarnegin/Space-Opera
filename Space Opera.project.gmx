@@ -47,7 +47,7 @@
       <sprite>sprites\spr_humo</sprite>
       <sprite>sprites\spr_jugador_parado</sprite>
     </sprites>
-    <sprite>sprites\spr_fondo_espacio</sprite>
+    <sprite>sprites\spr_efectos_especiales</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\back_estrellas1</background>
@@ -64,9 +64,9 @@
     <object>objects\obj_jugador</object>
     <object>objects\obj_humo</object>
     <object>objects\obj_cometa</object>
-    <object>objects\obj_fondo_espacio</object>
+    <object>objects\obj_efectos_especiales</object>
     <object>objects\obj_generador_asteroides</object>
-    <object>objects\obj_generador_fondo_espacio</object>
+    <object>objects\obj_generador_efectos</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
