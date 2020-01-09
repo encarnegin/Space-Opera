@@ -67,6 +67,7 @@
     <object>objects\obj_efectos_especiales</object>
     <object>objects\obj_generador_asteroides</object>
     <object>objects\obj_generador_efectos</object>
+    <object>objects\obj_planeta1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
