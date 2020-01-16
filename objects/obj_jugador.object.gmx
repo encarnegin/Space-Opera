@@ -275,30 +275,6 @@ background_hspeed[0] = 3;
       </action>
       <action>
         <libid>1</libid>
-        <id>211</id>
-        <kind>0</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_sound</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>6</kind>
-            <sound>snd_propulsor_jugador</sound>
-          </argument>
-          <argument>
-            <kind>3</kind>
-            <string>1</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
         <id>109</id>
         <kind>0</kind>
         <userelative>-1</userelative>
@@ -318,6 +294,30 @@ background_hspeed[0] = 3;
           <argument>
             <kind>0</kind>
             <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>211</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>snd_propulsor_jugador</sound>
+          </argument>
+          <argument>
+            <kind>3</kind>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -397,7 +397,7 @@ background_hspeed[0] = 3;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>background_vspeed[0] = 3;
+            <string>background_vspeed[0] = -3;
 background_hspeed[0] = -5;
 </string>
           </argument>
