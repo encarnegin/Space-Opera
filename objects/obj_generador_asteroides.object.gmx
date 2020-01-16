@@ -59,7 +59,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>random_range(100, room_height-1000)</string>
+            <string>-1</string>
           </argument>
         </arguments>
       </action>
